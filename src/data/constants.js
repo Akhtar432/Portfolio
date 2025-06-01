@@ -126,7 +126,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "src/images/ennovationimg.png",
+    img: "https://i.postimg.cc/NMLY3z6M/ennovationimg.png",
     role: "Full Stack Developer",
     company: "Ennovations Techserv Pvt Ltd",
     date: "Oct 2024 - Present",
@@ -143,7 +143,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "src/images/codesoft.png",
+    img: "https://i.postimg.cc/wvPHgQ2k/codesoft.png",
     role: "Web Developer",
     company: "CodeSoft",
     date: "Mar 2024 - Mar 2024",
