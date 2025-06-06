@@ -126,10 +126,10 @@ const Contact = () => {
     e.preventDefault();
     try {
       const response = await emailjs.sendForm(
-        "service_6knfu1v",        // Replace with your actual service ID
-        "template_gii2k3s",       // Replace with your actual template ID
+        "service_95oxaap",        
+        "template_cwmrjod",       
         form.current,
-        "vsvJZJPs7wrqEKjHI"       // Replace with your actual public key
+        "xqWPri15H6-y5W_6b"   
       );
       console.log(response);
       if (response.status === 200) {
